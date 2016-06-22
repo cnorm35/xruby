@@ -90,3 +90,7 @@ class Node
     @datum = input_datum
   end
 end
+
+module BookKeeping
+  VERSION = 1
+end
